@@ -12,3 +12,5 @@ Throughout the project, I worked through various UX/UI stages, including:
 🔹 Heuristic evaluation and accessibility
 
 *The development of the work is summarized in the attached pdf file "ReporteUX+Landoni.pdf".*
+
+<img width="2354" height="2644" alt="Mockup" src="https://github.com/user-attachments/assets/5d34d3e2-3da2-4e07-831f-4f81be2016ba" />
