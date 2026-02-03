@@ -11,4 +11,4 @@ Throughout the project, I worked through various UX/UI stages, including:
 🔹 Functional prototyping and usability testing
 🔹 Heuristic evaluation and accessibility
 
-**The development of the work is summarized in the attached pdf file *ReporteUX+Landoni.pdf*.**
+*The development of the work is summarized in the attached pdf file "ReporteUX+Landoni.pdf".*
